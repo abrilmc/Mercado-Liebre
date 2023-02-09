@@ -288,16 +288,19 @@ nav ul {
 }
 
 
+.logueo {
+   margin: 0 auto;
+    width: 30%;
+}
+
 .logueo input {
+    width: 100%;
     margin: 1rem;
     padding: 1rem;
     gap: 2rem;
     border: none;
 }
-/*.logueo {
-    align-items: center;
-}
-*/
+
 
 .simbolo :hover {
     color: #eac926;
