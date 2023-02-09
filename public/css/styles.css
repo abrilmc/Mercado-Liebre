@@ -281,8 +281,10 @@ nav ul {
     gap: 2rem;
 }
 
-.enviar :hover {
-    background-color: #0022AA
+.enviar:hover {
+    background-color: #0022AA;
+    color: white;
+    cursor: pointer;
 }
 
 
@@ -321,4 +323,8 @@ nav ul {
     gap: 2rem;
     border-radius: 0.3rem;
     border: none;
+}
+
+.descripcion {
+    cursor: pointer;
 }
